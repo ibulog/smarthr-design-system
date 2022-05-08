@@ -85,7 +85,7 @@
     "gatsby-remark-relative-images": "^2.0.2",
     "gatsby-source-filesystem": "^4.9.1",
     "glob": "^8.0.1",
-    "husky": "^7.0.4",
+    "husky": "^8.0.0",
     "lint-staged": "^12.4.1",
     "micromark": "^3.0.10",
     "micromark-extension-mdxjs": "^1.0.0",
